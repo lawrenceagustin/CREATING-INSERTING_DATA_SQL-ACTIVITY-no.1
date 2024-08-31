@@ -1,15 +1,15 @@
 -- Insert into Users
 INSERT INTO Users (UserID, Username, FirstName, LastName, DateOfBirth, Password) VALUES
-(1,'jbrithman0', 'Jarrid', 'Brithman', '1991-07-26', 'Str0ngP@ss'),
-(2,'mgarfoot1', 'Margaux', 'Garfoot', '1967-02-26', 'P@ssw0rd2022'),
-(3,'awear2', 'Antonietta', 'Wear', '1953-10-06', 'P@ssw0rd!999'),
-(4,'asture3', 'Archy', 'Sture', '1955-09-23', 'P@ssw0rd!23'),
+(1,'jbrithman0', 'Jarrid', 'Brithman', '2001-07-26', 'Str0ngP@ss'),
+(2,'mgarfoot1', 'Margaux', 'Garfoot', '2001-02-26', 'P@ssw0rd2022'),
+(3,'awear2', 'Antonietta', 'Wear', '2003-10-06', 'P@ssw0rd!999'),
+(4,'asture3', 'Archy', 'Sture', '1991-09-23', 'P@ssw0rd!23'),
 (5,'eourry4', 'Ettie', 'Ourry', '1994-03-05', 'P@ssw0rd!999'),
-(6,'tmccowen5', 'Tracey', 'McCowen', '1981-01-21', 'P@ssw0rd!abc'),
-(7,'kwiffield6', 'Kassandra', 'Wiffield', '1973-06-26', 'P@ssw0rd!789'),
+(6,'tmccowen5', 'Tracey', 'McCowen', '2000-01-21', 'P@ssw0rd!abc'),
+(7,'kwiffield6', 'Kassandra', 'Wiffield', '2004-06-26', 'P@ssw0rd!789'),
 (8,'ttirone7', 'Torey', 'Tirone', '1997-04-26', 'P@ssw0rd2022'),
 (9,'ksinnott8', 'Karolina', 'Sinnott', '1991-08-26', 'P@ssw0rd!444'),
-(10,'bgraftonherbert9', 'Benjy', 'Grafton-Herbert', '1980-09-25', 'P@ssw0rd!2022');
+(10,'bgraftonherbert9', 'Benjy', 'Grafton-Herbert', '2004-09-25', 'P@ssw0rd!2022');
 
 --Insert Into Friends 
 INSERT INTO Friends (FriendID, FriendWhoAdded, FriendBeingAdded, IsAccepted) VALUES

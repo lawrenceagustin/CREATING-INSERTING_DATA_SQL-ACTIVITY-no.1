@@ -1,3 +1,0 @@
-1.)
-SELECT * FROM Users
-WHERE DateOfBirth BETWEEN '2001-01-01' AND '2004-12-31';
